@@ -1,4 +1,4 @@
-# 🎙 Podcast Management System
+# 🎙 Podcast Management System:
 
 The **Podcast Management System** is a software application designed to manage podcasts, episodes, and related information efficiently.  
 It allows users or administrators to organize content, maintain records, and perform operations such as adding, updating, searching, and deleting podcast data.
